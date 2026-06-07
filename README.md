@@ -11,7 +11,7 @@
   <img src="https://img.shields.io/badge/Available%20for-Freelance-1D9E75?style=flat-square" />
   <img src="https://img.shields.io/badge/Remote-Ready-378ADD?style=flat-square" />
   <img src="https://img.shields.io/badge/Stack-MERN-534AB7?style=flat-square" />
-  <img src="https://img.shields.io/badge/Role-React%20Developer-EF9F27?style=flat-square" />
+  <img src="https://img.shields.io/badge/Role-Full%20Stack%20Developer-EF9F27?style=flat-square" />
   <img src="https://img.shields.io/badge/Based%20in-Pakistan-D85A30?style=flat-square" />
 </p>
 
@@ -19,23 +19,23 @@
 
 ## About me
 
-I'm a **React developer** levelling up into full stack — building end-to-end products with the MERN stack (MongoDB, Express, React, Node.js). I love turning ideas into real, working products that are fast and clean. Currently learning backend development, cloud deployment, and DevOps to become a complete full stack engineer ready for the global remote market.
+I'm a **Full Stack Developer** specialising in the MERN stack — building end-to-end products with React, Next.js, Node.js, NestJS, and PostgreSQL. I love turning ideas into real, working products that are fast, clean, and scalable. Currently levelling up in cloud deployment and DevOps to deliver complete production-ready applications.
 
 ---
 
 ## Tech stack
 
 **Frontend**
-`React` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
+`React` `Next.js` `JavaScript (ES6+)` `HTML5` `CSS3` `Tailwind CSS` `Bootstrap`
 
 **Backend**
-`Node.js` `Express.js` `REST APIs`
+`Node.js` `Express.js` `NestJS` `REST APIs`
 
 **Database**
-`MongoDB` `Mongoose`
+`MongoDB` `Mongoose` `PostgreSQL`
 
 **Tools & DevOps**
-`Git` `GitHub` `Docker (learning)` `AWS (learning)`
+`Git` `GitHub` `Docker` `AWS`
 
 ---
 
@@ -44,7 +44,7 @@ I'm a **React developer** levelling up into full stack — building end-to-end p
 | Project | Description | Stack | Links |
 |---------|-------------|-------|-------|
 | **Project 1** | Add description here | React, Node.js, MongoDB | [Live](#) · [Code](#) |
-| **Project 2** | Add description here | React, Express, REST API | [Live](#) · [Code](#) |
+| **Project 2** | Add description here | Next.js, NestJS, PostgreSQL | [Live](#) · [Code](#) |
 
 > ⬆ Replace the placeholders above with your real project names, descriptions, and links.
 
