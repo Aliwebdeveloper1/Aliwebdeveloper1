@@ -76,19 +76,6 @@ Full Stack Developer | MERN Stack Engineer | Remote-Ready
 
 ---
 
-## 📈 GitHub Analytics
-
-| Stat              | Value |
-| :---------------- | :---- |
-| Total commits     | 0     |
-| Pull requests     | 0     |
-| Issues opened     | 0     |
-| Repos             | 0     |
-| Current Streak    | 0 days 🔥 |
-| Longest streak    | 14 days |
-| Total contributions | 280+ |
-
----
 
 ## 🏗️ Experience & Journey
 
@@ -98,8 +85,6 @@ Building production-grade web apps with React, Next.js, Node.js, and MongoDB. De
 **2023 – 2024: Frontend Developer — React & Next.js**
 Specialised in responsive, accessible UIs with Tailwind CSS and component-driven architecture. Integrated third-party APIs and payment gateways.
 
-**2022 – 2023: Backend Developer — Node.js & Express**
-Developed scalable backend services, database schemas with MongoDB & PostgreSQL, and implemented JWT-based auth and role-based access control.
 
 ---
 
@@ -177,24 +162,12 @@ A brief description of what this project does and the problem it solves.
 | 📖 Documentation | Future you will thank present you    |
 | 🤝 Collaboration | Great software is built by teams     |
 
----
-
-## ☕ My Daily Routine
-
-- 06:00 ━━▶ Wake up & plan the day
-- 07:00 ━━▶ Deep work — coding & features
-- 10:00 ━━▶ Coffee break & code review ☕
-- 11:00 ━━▶ Team standup & collaboration
-- 01:00 ━━▶ Bug fixing & testing 🐛
-- 03:00 ━━▶ Learning & side projects 📚
-- 05:00 ━━▶ Exercise & disconnect 🏃
-- 09:00 ━━▶ Light reading & rest 🌙
 
 ---
 
 ## 🤝 Let's Connect
 
-[📧 aliraza41030@gmail.com](mailto:aliraza41030@gmail.com) | [GitHub @Aliwebdeveloper1](https://github.com/Aliwebdeveloper1) | [LinkedIn — Ali Raza](#)
+[📧 aliraza41030@gmail.com](mailto:aliraza41030@gmail.com) | [GitHub @Aliwebdeveloper1](https://github.com/Aliwebdeveloper1) | [LinkedIn — Ali Raza](https://www.linkedin.com/in/ali-raza-mernstackdeveloper/)
 
 💼 Open to freelance projects and remote full stack roles worldwide.
 📩 Drop me an email — I respond within 24 hours!
