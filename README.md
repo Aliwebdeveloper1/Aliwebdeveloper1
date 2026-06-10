@@ -39,7 +39,7 @@ Full Stack Developer | MERN Stack Engineer | Remote-Ready
 <img src="https://cdn.simpleicons.org/typescript/3178C6" width="16"/> TypeScript &nbsp;
 <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript &nbsp;
 <img src="https://cdn.simpleicons.org/html5/E34F26" width="16"/> HTML5 &nbsp;
-<img src="https://cdn.simpleicons.org/css3/1572B6" width="16"/> CSS3 &nbsp;
+<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="16"/> CSS3 &nbsp;
 <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="16"/> Tailwind &nbsp;
 <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="16"/> Bootstrap &nbsp;
 <img src="https://cdn.simpleicons.org/redux/764ABC" width="16"/> Redux &nbsp;
@@ -66,11 +66,11 @@ Full Stack Developer | MERN Stack Engineer | Remote-Ready
 <img src="https://cdn.simpleicons.org/git/F05032" width="16"/> Git &nbsp;
 <img src="https://cdn.simpleicons.org/github/ffffff" width="16"/> GitHub &nbsp;
 <img src="https://cdn.simpleicons.org/docker/2496ED" width="16"/> Docker &nbsp;
-<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="16"/> AWS &nbsp;
+<img src="https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" height="16"/> AWS &nbsp;
 <img src="https://cdn.simpleicons.org/vercel/ffffff" width="16"/> Vercel &nbsp;
 <img src="https://cdn.simpleicons.org/githubactions/2088FF" width="16"/> CI/CD &nbsp;
 <img src="https://cdn.simpleicons.org/postman/FF6C37" width="16"/> Postman &nbsp;
-<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> VS Code &nbsp;
+<img src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visualstudiocode&logoColor=white" height="16"/> VS Code &nbsp;
 <img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/> Linux &nbsp;
 <img src="https://cdn.simpleicons.org/npm/CB3837" width="16"/> npm
 
