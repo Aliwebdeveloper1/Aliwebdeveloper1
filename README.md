@@ -31,25 +31,48 @@ Full Stack Developer | MERN Stack Engineer | Remote-Ready
 
 > "Code is poetry. I write it clean, scalable, and with purpose."
 
----
-
-## ⚙️ Tech Arsenal
+---## ⚙️ Tech Arsenal
 
 ### 🎨 Frontend
-
-![](https://cdn.simpleicons.org/react/61DAFB) React ![](https://cdn.simpleicons.org/nextdotjs/ffffff) Next.js ![](https://cdn.simpleicons.org/typescript/3178C6) TypeScript ![](https://cdn.simpleicons.org/javascript/F7DF1E) JavaScript ![](https://cdn.simpleicons.org/html5/E34F26) HTML5 ![](https://cdn.simpleicons.org/css3/1572B6) CSS3 ![](https://cdn.simpleicons.org/tailwindcss/06B6D4) Tailwind ![](https://cdn.simpleicons.org/bootstrap/7952B3) Bootstrap ![](https://cdn.simpleicons.org/redux/764ABC) Redux ![](https://cdn.simpleicons.org/sass/CC6699) Sass
+<img src="https://cdn.simpleicons.org/react/61DAFB" width="16"/> React &nbsp;
+<img src="https://cdn.simpleicons.org/nextdotjs/ffffff" width="16"/> Next.js &nbsp;
+<img src="https://cdn.simpleicons.org/typescript/3178C6" width="16"/> TypeScript &nbsp;
+<img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="16"/> JavaScript &nbsp;
+<img src="https://cdn.simpleicons.org/html5/E34F26" width="16"/> HTML5 &nbsp;
+<img src="https://cdn.simpleicons.org/css3/1572B6" width="16"/> CSS3 &nbsp;
+<img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" width="16"/> Tailwind &nbsp;
+<img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="16"/> Bootstrap &nbsp;
+<img src="https://cdn.simpleicons.org/redux/764ABC" width="16"/> Redux &nbsp;
+<img src="https://cdn.simpleicons.org/sass/CC6699" width="16"/> Sass
 
 ### ⚙️ Backend
-
-![](https://cdn.simpleicons.org/nodedotjs/339933) Node.js ![](https://cdn.simpleicons.org/express/ffffff) Express ![](https://cdn.simpleicons.org/nestjs/E0234E) NestJS ![](https://cdn.simpleicons.org/swagger/85EA2D) REST API ![](https://cdn.simpleicons.org/graphql/E10098) GraphQL ![](https://cdn.simpleicons.org/jsonwebtokens/ffffff) JWT ![](https://cdn.simpleicons.org/socketdotio/010101) Socket.io
+<img src="https://cdn.simpleicons.org/nodedotjs/339933" width="16"/> Node.js &nbsp;
+<img src="https://cdn.simpleicons.org/express/ffffff" width="16"/> Express &nbsp;
+<img src="https://cdn.simpleicons.org/nestjs/E0234E" width="16"/> NestJS &nbsp;
+<img src="https://cdn.simpleicons.org/swagger/85EA2D" width="16"/> REST API &nbsp;
+<img src="https://cdn.simpleicons.org/graphql/E10098" width="16"/> GraphQL &nbsp;
+<img src="https://cdn.simpleicons.org/jsonwebtokens/ffffff" width="16"/> JWT &nbsp;
+<img src="https://cdn.simpleicons.org/socketdotio/ffffff" width="16"/> Socket.io
 
 ### 🗄️ Database
+<img src="https://cdn.simpleicons.org/mongodb/47A248" width="16"/> MongoDB &nbsp;
+<img src="https://cdn.simpleicons.org/postgresql/336791" width="16"/> PostgreSQL &nbsp;
+<img src="https://cdn.simpleicons.org/mongodb/880000" width="16"/> Mongoose &nbsp;
+<img src="https://cdn.simpleicons.org/prisma/2D3748" width="16"/> Prisma &nbsp;
+<img src="https://cdn.simpleicons.org/redis/DC382D" width="16"/> Redis &nbsp;
+<img src="https://cdn.simpleicons.org/firebase/FFCA28" width="16"/> Firebase
 
-![](https://cdn.simpleicons.org/mongodb/47A248) MongoDB ![](https://cdn.simpleicons.org/postgresql/336791) PostgreSQL ![](https://cdn.simpleicons.org/mongodb/880000) Mongoose ![](https://cdn.simpleicons.org/prisma/2D3748) Prisma ![](https://cdn.simpleicons.org/redis/DC382D) Redis ![](https://cdn.simpleicons.org/firebase/FFCA28) Firebase
-
-### 🔧 DevOps
-
-![](https://cdn.simpleicons.org/git/F05032) Git ![](https://cdn.simpleicons.org/github/181717) GitHub ![](https://cdn.simpleicons.org/docker/2496ED) Docker ![](https://cdn.simpleicons.org/amazonaws/FF9900) AWS ![](https://cdn.simpleicons.org/vercel/ffffff) Vercel ![](https://cdn.simpleicons.org/githubactions/2088FF) CI/CD ![](https://cdn.simpleicons.org/postman/FF6C37) Postman ![](https://cdn.simpleicons.org/visualstudiocode/007ACC) VS Code ![](https://cdn.simpleicons.org/linux/FCC624) Linux ![](https://cdn.simpleicons.org/npm/CB3837) npm
+### 🔧 DevOps & Tools
+<img src="https://cdn.simpleicons.org/git/F05032" width="16"/> Git &nbsp;
+<img src="https://cdn.simpleicons.org/github/ffffff" width="16"/> GitHub &nbsp;
+<img src="https://cdn.simpleicons.org/docker/2496ED" width="16"/> Docker &nbsp;
+<img src="https://cdn.simpleicons.org/amazonaws/FF9900" width="16"/> AWS &nbsp;
+<img src="https://cdn.simpleicons.org/vercel/ffffff" width="16"/> Vercel &nbsp;
+<img src="https://cdn.simpleicons.org/githubactions/2088FF" width="16"/> CI/CD &nbsp;
+<img src="https://cdn.simpleicons.org/postman/FF6C37" width="16"/> Postman &nbsp;
+<img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="16"/> VS Code &nbsp;
+<img src="https://cdn.simpleicons.org/linux/FCC624" width="16"/> Linux &nbsp;
+<img src="https://cdn.simpleicons.org/npm/CB3837" width="16"/> npm
 
 ---
 
